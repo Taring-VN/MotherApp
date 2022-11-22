@@ -2,7 +2,6 @@
 //  ViewController.swift
 //  MotherApp
 //
-//  Created by Nam Nguyễn on 22/11/2022.
 //
 
 import UIKit

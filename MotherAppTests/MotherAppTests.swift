@@ -2,7 +2,6 @@
 //  MotherAppTests.swift
 //  MotherAppTests
 //
-//  Created by Nam Nguyễn on 22/11/2022.
 //
 
 import XCTest

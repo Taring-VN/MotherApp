@@ -2,7 +2,6 @@
 //  AnhViewController.swift
 //  DemoX
 //
-//  Created by Nam Nguyễn on 21/11/2022.
 //
 
 import UIKit
@@ -11,7 +10,7 @@ import iCOM_Service
 class AnhViewController: UIViewController {
 
     @IBAction func navigateToICOM(_ sender: Any) {
-//        let vc = ControlDeviceVC
+//        let vc = ControlD
     }
     
     override func viewDidLoad() {

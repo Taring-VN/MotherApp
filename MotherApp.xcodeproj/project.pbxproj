@@ -19,7 +19,6 @@
 		1BCD639E292C9C3200317706 /* AnhViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1BCD639C292C9C3200317706 /* AnhViewController.xib */; };
 		1BCD639F292C9C3200317706 /* AnhViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BCD639D292C9C3200317706 /* AnhViewController.swift */; };
 		5695DC4C292C9D780081BA10 /* iCOM_Service in Frameworks */ = {isa = PBXBuildFile; productRef = 5695DC4B292C9D780081BA10 /* iCOM_Service */; };
-		56F85900292CADE5007B082E /* Screen in Resources */ = {isa = PBXBuildFile; fileRef = 56F858FF292CADE5007B082E /* Screen */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,7 +54,6 @@
 		1BCD638F292C9BC100317706 /* MotherAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotherAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		1BCD639C292C9C3200317706 /* AnhViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AnhViewController.xib; sourceTree = "<group>"; };
 		1BCD639D292C9C3200317706 /* AnhViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnhViewController.swift; sourceTree = "<group>"; };
-		56F858FF292CADE5007B082E /* Screen */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Screen; path = ../../DemoX/DemoX/Screen; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,7 +105,6 @@
 		1BCD6368292C9BBE00317706 /* MotherApp */ = {
 			isa = PBXGroup;
 			children = (
-				56F858FF292CADE5007B082E /* Screen */,
 				1BCD6369292C9BBE00317706 /* AppDelegate.swift */,
 				1BCD636D292C9BBE00317706 /* ViewController.swift */,
 				1BCD636F292C9BBE00317706 /* Main.storyboard */,
@@ -248,7 +245,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56F85900292CADE5007B082E /* Screen in Resources */,
 				1BCD639E292C9C3200317706 /* AnhViewController.xib in Resources */,
 				1BCD6379292C9BC000317706 /* LaunchScreen.storyboard in Resources */,
 				1BCD6376292C9BC000317706 /* Assets.xcassets in Resources */,
